@@ -15,14 +15,7 @@
 	</div>
 </nav>
 
-<div class="container">
+<main class="container max-w-3xl mx-auto px-4 mb-20">
 	<!-- Pages will be injected below -->
 	<slot />
-</div>
-
-<style>
-	.container {
-		max-width: 1400px;
-		margin: 50px auto;
-	}
-</style>
+</main>

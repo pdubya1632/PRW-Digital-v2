@@ -24,9 +24,9 @@
 <div class="background-div" />
 
 <style>
-/* remove these styles after switching to tailwind */
+	/* remove these styles after switching to tailwind */
 
-.info {
+	.info {
 		text-align: center;
 		position: relative;
 	}
