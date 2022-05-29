@@ -31,7 +31,7 @@
 				<li><a href="projects">Projects</a></li>
 			</ul>
 		</div>
-		<a class="btn btn-ghost normal-case text-xl">Patrick Richardson Wright</a>
+		<a class="btn btn-ghost normal-case text-xl" href="/">Patrick Richardson Wright</a>
 	</div>
 	<div class="navbar-center hidden lg:flex">
 		<ul class="menu menu-horizontal p-0">
