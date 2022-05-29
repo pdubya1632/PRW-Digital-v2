@@ -1,6 +1,7 @@
 <script>
-	import '../app.css';
-</script>
+	import Footer from '$lib/components/footer.svelte'
+	import '../app.css'
+  </script>
 
 <!-- src/routes/__layout.svelte -->
 <nav>
