@@ -8,7 +8,7 @@
 			<div class="container info-container">
 				<div class="info-text">
 					<h1>
-						<p class="animate-text-1">Creative Developer</p>
+						<p class="animate-text-1">Patrick Richardson Wright</p>
 						<p class="text-2">Design + Front & Backend Code</p>
 					</h1>
 				</div>
