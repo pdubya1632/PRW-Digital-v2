@@ -20,30 +20,30 @@
 				tabindex="0"
 				class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52"
 			>
-				<li><a>Item 1</a></li>
-				<li tabindex="0">
+				<li><a href="about">About</a></li>
+				<!-- <li tabindex="0">
 					<a class="justify-between"> Parent </a>
 					<ul class="p-2">
 						<li><a>Submenu 1</a></li>
 						<li><a>Submenu 2</a></li>
 					</ul>
-				</li>
-				<li><a>Item 3</a></li>
+				</li> -->
+				<li><a href="projects">Projects</a></li>
 			</ul>
 		</div>
-		<a class="btn btn-ghost normal-case text-xl">daisyUI</a>
+		<a class="btn btn-ghost normal-case text-xl">Patrick Richardson Wright</a>
 	</div>
 	<div class="navbar-center hidden lg:flex">
 		<ul class="menu menu-horizontal p-0">
-			<li><a>Item 1</a></li>
-			<li tabindex="0">
+			<li><a href="projects">Projects</a></li>
+			<!-- <li tabindex="0">
 				<a> Parent </a>
 				<ul class="p-2">
 					<li><a>Submenu 1</a></li>
 					<li><a>Submenu 2</a></li>
 				</ul>
-			</li>
-			<li><a>Item 3</a></li>
+			</li> -->
+			<li><a href="about">About</a></li>
 		</ul>
 	</div>
 	<div class="navbar-end">
