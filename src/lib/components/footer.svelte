@@ -16,6 +16,9 @@
 			<a href="https://twitter.com">
 				<TwitterIcon />
 			</a>
+			<a href="https://github.com">
+				Add Github icon
+			</a>
 		</div>
 	</div>
 </footer>
