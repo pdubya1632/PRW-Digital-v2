@@ -8,7 +8,7 @@
 
 <Navbar />
 
-<main class="container mx-auto px-4 mb-20">
+<main>
 	<slot />
 </main>
 
