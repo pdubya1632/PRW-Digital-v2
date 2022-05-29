@@ -19,4 +19,10 @@ const config = {
 	],
   }
   
-  module.exports = config
+//   module.exports = config
+
+module.exports = {
+	daisyui: {
+	  themes: ["light", "dark", "cmyk"],
+	},
+  }
