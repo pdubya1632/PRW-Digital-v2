@@ -37,7 +37,7 @@
 		flex-direction: column;
 		justify-content: center;
 		text-align: left;
-		align-items: start;
+		align-items: flex-start;
 	}
 
 	.container {
