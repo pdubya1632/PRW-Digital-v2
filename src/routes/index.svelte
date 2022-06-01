@@ -3,13 +3,13 @@
 	<title>The Portfolio of Patrick Richardson Wright</title>
 </svelte:head>
 
-<div class="hero min-h-screen">
-	<div class="hero-content flex-col lg:flex-row-reverse">
-	  <!-- <img src="https://api.lorem.space/image/movie?w=260&h=400" class="max-w-sm rounded-lg shadow-2xl" /> -->
-	  <div>
+<section class="pl-14">
+	<div>
+		<p class="pl-1">I'm a</p>
 		<h1 class="text-8xl font-bold max-w-xs">Creative Developer</h1>
-		<!-- <p class="py-6">Blurb here</p>
-		<button class="btn btn-primary">Contact</button> -->
-	  </div>
+		<p class="pl-1">based in Seattle, WA.</p>
+		<!-- <button class="btn btn-primary">Contact</button> -->
 	</div>
-</div>
+	<!-- <img src="https://api.lorem.space/image/movie?w=260&h=400" class="max-w-sm rounded-lg shadow-2xl" />
+	 -->
+</section>
