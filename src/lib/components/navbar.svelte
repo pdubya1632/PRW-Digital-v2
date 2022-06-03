@@ -1,6 +1,6 @@
 <div class="navbar mt-6">
 	<div class="flex-1">
-	  <a class="normal-case text-xl font-medium pl-5 leading-5" href="/">Patrick<br><span class="pl-1">Richardson</span><br>Wright</a>
+	  <a class="normal-case font-medium pl-5 leading-5" href="/">Patrick<br><span class="pl-1">Richardson</span><br>Wright</a>
 	</div>
 	<div class="flex-none">
 	  <ul class="menu menu-horizontal p-5">
