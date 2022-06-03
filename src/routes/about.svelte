@@ -4,7 +4,7 @@
 </svelte:head>
 
 <section>
-	<div class="max-w-sm">
+	<div class="lg:w-2/5 text-2xl">
 		<h2>Hey there 👋</h2>
 		<div>
 			<p>
