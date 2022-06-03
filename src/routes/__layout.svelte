@@ -8,7 +8,8 @@
 
 <Navbar />
 
-<main class="flex pt-14 w-full lg:w-11/12 mx-auto py-macro px-micro md:px-x-small lg:px-0">
+<main class="pt-14 pl-6">
+<!-- <main class="flex pt-14 w-full mx-auto py-macro px-micro md:px-x-small lg:px-0"> -->
 	<slot />
 </main>
 

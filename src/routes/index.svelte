@@ -3,7 +3,7 @@
 	<title>The Portfolio of Patrick Richardson Wright</title>
 </svelte:head>
 
-<section class="pl-14">
+<section>
 	<div>
 		<p class="pl-1">I'm a</p>
 		<h1 class="text-7xl font-bold max-w-xs">Creative Developer</h1>

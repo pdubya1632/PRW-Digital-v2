@@ -3,7 +3,7 @@
 	<title>Patrick Richardson Wright - About</title>
 </svelte:head>
 
-<section class="pl-14">
+<section>
 	<div class="max-w-sm">
 		<h2>Hey there 👋</h2>
 		<div>
